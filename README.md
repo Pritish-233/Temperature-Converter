@@ -1,2 +1,10 @@
-# Temperature-Converter
-A simple Java Temperature Converter that converts between Celsius, Fahrenheit, and Kelvin. Includes both console and Swing GUI versions. Perfect for beginners to learn Java basics, conditional logic, and user input handling while building a practical mini-project.
+# TemperatureConverter
+
+A small Java project that converts temperatures between **Celsius (C)**, **Fahrenheit (F)**, and **Kelvin (K)**.
+
+It includes:
+- Core conversion logic (`TemperatureConverter`)
+- CLI (console) interface (`Main`)
+- Simple Swing GUI (`ConverterGUI`)
+
+## Project structure
